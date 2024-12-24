@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakhriajah47&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
 <!--
 **fakhriajah47/fakhriajah47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
